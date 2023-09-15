@@ -1,2 +1,2 @@
 # AQI
-The AQI Project
+The AQI project. A project for predicting Air Quality Index.
